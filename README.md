@@ -21,7 +21,7 @@ then push as a Kaggle notebook (`agi2/kaggle/push.sh`) and run on GPU.
 ## ARC-AGI-3 (`agi3/`)
 
 VSM homeostat + CNN proposer + certified Qwen brain, as a single-file agent
-(`agi3/agent/my_agent.py`) spliced into the official ARC-AGI-3-Agents
+(`agi3/agent/viarc3_agent.py`, spliced into the kernel notebook as `my_agent.py`) spliced into the official ARC-AGI-3-Agents
 notebook pattern (gateway rerun plays the games; the agent is the code).
 
 - Action selection degrades silently: CNN tier → LLM brain → deterministic

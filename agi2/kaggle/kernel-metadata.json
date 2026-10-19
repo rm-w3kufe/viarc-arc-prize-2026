@@ -1,0 +1,17 @@
+{
+  "code_file": "kaggle_notebook.ipynb",
+  "competition_sources": [
+    "arc-prize-2026-arc-agi-2"
+  ],
+  "dataset_sources": [
+    "shuvocs23/qwen2-5-3b-instruct"
+  ],
+  "enable_gpu": true,
+  "enable_internet": false,
+  "id": "rmw3kufe/viarc-vsm-agi-2-solver-v2",
+  "is_private": false,
+  "kernel_sources": [],
+  "kernel_type": "notebook",
+  "language": "python",
+  "title": "ViArc VSM AGI-2 solver v2"
+}
